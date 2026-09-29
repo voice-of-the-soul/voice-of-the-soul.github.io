@@ -1,7 +1,4 @@
-  ---
-  layout: default
-  title: Home
-  ---
+
 
 
 Hello, welcome to my website ^_^
