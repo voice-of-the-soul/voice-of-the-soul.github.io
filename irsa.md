@@ -4,6 +4,6 @@ title: "IRSA"
 permalink: /irsa/
 ---
 
-# IR Resource Dump
+# International Relations Student Association
 
-![International Relations Student Association](/images/irsa1006.jpeg)
+
