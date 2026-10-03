@@ -22,6 +22,13 @@ Data brokers are companies that collect and sell profiles of your personal infor
 
 If someone knows at least one thing about you, be it a name or phone number, they can easily find out the rest about you on these websites. These websites will also show people who are closely related to you, usually immediate family members. 
 
+Opt Out Links:
+[WhitePages Opt Out](https://www.whitepages.com/privacy/consumer-rights)
+[TruePeopleSearch Opt Out](https://www.truepeoplesearch.com/removal)
+[UnMask Opt Out](https://unmask.com/opt-out/)
+[Spokeo Opt Out](https://www.spokeo.com/optout)
+
+
 ## Social Media Websites
 
 Social media is another way that bad faith actors, not just data brokers, can track you. A lot of people often use their legal names on sites like Instagram and Facebook. A lot of people also reuse the same username across websites, making it easy to track their digital footprint. Social media can be a great resource for bad faith actors because people more often than not use their full names, put their location in their bio, geotag posts, and don't always keep their profiles private, which makes it easy to find people who are associated or close friends with said person.
@@ -29,6 +36,10 @@ Social media is another way that bad faith actors, not just data brokers, can tr
 ## Email Breach Websites
 
 Websites like HaveIBeenPwned and Databreach.com can be used to track you by bad faith actors if they know your email(s). People can use these websites to find out what other accounts you might have. 
+
+[HaveIBeenPwned Opt Out](https://haveibeenpwned.com/OptOut)
+[Databreach Opt Out](https://databreach.com/optout)
+
 
 ## Public Records
 
