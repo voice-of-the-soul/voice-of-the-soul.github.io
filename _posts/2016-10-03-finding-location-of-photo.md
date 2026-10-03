@@ -5,5 +5,5 @@ tags: [osint, geoguessr]
 
 # This is an OSINT analysis of this image and its approximate location.
 
-![Picture of a town taken from a highway](/images/tree.jpg)
+![Picture of a town taken from a highway](/tree.jpg)
 
