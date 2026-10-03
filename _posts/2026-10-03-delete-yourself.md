@@ -2,12 +2,12 @@
 layout: post
 title: How To Delete Yourself (Off The Internet)
 date: 2026-10-03
+tags: [privacy, osint]
+
 ---
 
 *Privacy is not an option, and it shouldn't be the price we accept for just getting on the Internet.
 — Gary Kovacs*
-
-# How To Delete Yourself Off The Internet
 
 This is a guide on how to erase your digital footprint so that you become un-googleable. 
 First, we must ask why this is important. 
@@ -37,4 +37,3 @@ Obituaries for deceased family members can also show your name, along with who y
 
 
 
-![alt text](/images/photo.png)
