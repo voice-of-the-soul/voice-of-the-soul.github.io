@@ -20,7 +20,7 @@ Where I would start first is to find the range of Douglas Fir trees. They're spr
 
 If we hypothesize that the cluster of trees towards the left hand side of the photo are coastal redwoods, that would eliminate WA and OR as potential locations because the coastal redwood range is limited to the central and northern California coast, with a small portion of that extending into Oregon. 
 
-![Coastal redwood range](https://svhikes.com/coastal-redwood-douglas-fir-trees/)
+![Coastal redwood range](https://svhikes.com/wp-content/uploads/2025/01/map-coastal-redwood-tree-range-little-california.png)
 
 ## Deducing further
 Since the ranges for douglas fir trees and coastal redwoods are approximately the same, we need to look further to deduce whether this is northern California versus central California (Santa Cruz mountain range).  
