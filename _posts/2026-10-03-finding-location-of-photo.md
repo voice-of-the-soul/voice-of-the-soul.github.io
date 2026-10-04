@@ -13,7 +13,7 @@ Here's how I would do an OSINT analysis to find out the location of an image and
 
 ## Notable Key Facts
 
-In the photo you can see several things: the terrain, the douglas fir trees, power lines, a neighborhood and highway guardrails.  
+In the photo you can see several things: the terrain, the Douglas fir trees, power lines, a neighborhood and highway guardrails.  
 Where I would start first is to find the range of Douglas Fir trees. They're spread across the Pacific Northwest.  
 
 ![Douglas fir range](https://www.nps.gov/articles/images/DouglasFir_DRAFT_20240808_port_450dpi.jpg?maxwidth=650&autorotate=false&quality=78&format=webp)
@@ -23,9 +23,9 @@ If we hypothesize that the cluster of trees towards the left hand side of the ph
 ![Coastal redwood range](https://svhikes.com/wp-content/uploads/2025/01/map-coastal-redwood-tree-range-little-california.png)
 
 ## Deducing further
-Since the ranges for douglas fir trees and coastal redwoods are approximately the same, we need to look further to deduce whether this is northern California versus central California (Santa Cruz mountain range).  
+Since the ranges for douglas fir trees and coastal redwoods in California are approximately the same, we need to look further to deduce whether this is northern California versus central California (Santa Cruz mountain range).  
 
-The guard rails seen in the photo would suggest that we are driving on a highway, not a road that passes through a town. The elevation also suggests that we are on a highway. There also appears to be another lane in the photo, suggesting that this is a highway than just a country road. That eliminates Highway 9. That leaves Highway 17, but if you look at 17 on a map, you can't find find an area that has both power lines and is elevated.  
+The guardrails seen in the photo would suggest that we are driving on a highway, not a road that passes through a town. The elevation also suggests that we are on a highway. There also appears to be another lane in the photo, suggesting that this is a highway than just a country road. That eliminates Highway 9 which runs through Ben Lomond and surrounding areas. That leaves Highway 17, but if you look at 17 on a map, you can't find find an area that has both power lines and is elevated.  
 
 That would leave us with coastal Northern California. Since we are looking for a 4 lane highway, the only option that exists is Highway 101.   
 
