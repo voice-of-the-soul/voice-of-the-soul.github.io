@@ -42,5 +42,5 @@ The second area I found where the highway is elevated is on an overpass through 
 
 ![Weott](/_images/weott.jpeg)
 
-The coordinates for the location in this picture is (40.3214001, -123.9212946).
+The coordinates for the location in this picture is (40.3214001, -123.9212946). 
 
