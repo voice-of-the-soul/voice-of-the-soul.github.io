@@ -13,7 +13,7 @@ Here's how I would do an OSINT analysis to find out the location of an image and
 
 ## Notable Key Facts
 
-In the photo you can see several things: the terrain, the douglas fir trees, power lines, a neighborhood and high way guardrails.  
+In the photo you can see several things: the terrain, the douglas fir trees, power lines, a neighborhood and highway guardrails.  
 Where I would start first is to find the range of Douglas Fir trees. They're spread across the Pacific Northwest.  
 
 ![Douglas fir range](https://www.nps.gov/articles/images/DouglasFir_DRAFT_20240808_port_450dpi.jpg?maxwidth=650&autorotate=false&quality=78&format=webp)
