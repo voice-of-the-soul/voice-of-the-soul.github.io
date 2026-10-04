@@ -27,7 +27,7 @@ Since the ranges for douglas fir trees and coastal redwoods in California are ap
 
 The guardrails seen in the photo would suggest that we are driving on a highway, not a road that passes through a town. The elevation also suggests that we are on a highway. There also appears to be another lane in the photo, suggesting that this is a 4 lane highway than just a country road. That eliminates Highway 9 which runs through Ben Lomond and surrounding areas. That leaves Highway 17, but if you look at 17 on a map, you can't find find an area that has both power lines and is elevated.  
 
-That would leave us with coastal Northern California. Since we are looking for a 4 lane highway, the only option that exists is Highway 101.   
+That would leave us with coastal Northern California. This makes US 101 the strongest candidate because it is the principal multi-lane north-south highway traversing California's redwood belt.
 
 ## Highway 101
 The stretch of Highway 101 that closely resembles the topography and terrain in the photo extends from Rio Dell to Leggett. That's a 64.4 mile stretch.  The terrain south of Leggett doesn't match the one in the photo, since we are looking for a populated area that has a mountain ridge in the immediate distance. This also eliminates anything north of Rio Dell because the populated Humboldt area doesn't match the key factors of a neighborhood with an elevated terrain immediately in the background. We can also rule out Trinity county since it is too sparsely populated to resemble anything in the picture. 
