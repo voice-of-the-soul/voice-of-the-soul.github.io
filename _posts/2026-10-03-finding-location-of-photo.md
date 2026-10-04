@@ -40,7 +40,7 @@ There are a few points along Highway 101 where it is both elevated and is passin
 
 The second area I found where the highway is elevated is on an overpass through Weott. This is the only area other than Rio Dell where highway 101 has highway guardrails next to a populated area. On Google Maps, you can also see that the guard rails match the ones taken in the photo. 
 
-![Weott](/_images/weott.jpeg)
+![Weott](/_images/Weott.jpeg)
 
 The coordinates for the location in this picture is (40.3214001, -123.9212946). 
 
